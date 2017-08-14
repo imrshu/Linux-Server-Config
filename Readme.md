@@ -6,8 +6,9 @@ This project consists of a baseline installation of a Linux server and then prep
 
 ## Useful information
 
-Ip Address:- 34.211.175.198
-SSH Port:- 2200
+1. Ip Address:- 34.211.175.198
+2. SSH Port:- 2200
+3. Access Deployed site:- http://34.211.175.198
 
 ## Run the project (live View of project)
 
