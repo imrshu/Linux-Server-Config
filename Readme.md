@@ -4,7 +4,13 @@ This project is a part of FSND (Full Stack Web Developer) by Udacity.
 
 This project consists of a baseline installation of a Linux server and then prepare it to host my web applications. This server is secure from a number of attack vectors, server also configure a database server, and hosts one of my web application as well which is globally accessible now to the world.
 
+## Useful information
+
+Ip Address:- 34.211.175.198
+SSH Port:- 2200
+
 ## Run the project (live View of project)
+
 - In order to see this project directly in a browser just click this ip [http://34.211.175.198](http://34.211.175.198)
 
 
